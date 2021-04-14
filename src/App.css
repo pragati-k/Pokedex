@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+a{
+  text-decoration:none;
+  padding:8px 10px 8px 10px;
+  color:chartreuse;
+  transition: 0.2s ease-in-out;
+}
+a:hover {
+  border: 2px solid chartreuse;
+  border-radius:20%;
+}
